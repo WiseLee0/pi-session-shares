@@ -1,5 +1,5 @@
 # Pi session shares
 
-Sanitized session export. System prompts, reasoning, tool calls, tool outputs, and internal configuration details are omitted.
+Original, unredacted Pi session export, published with the session owner's explicit approval. Includes system prompt, reasoning, tool calls and tool outputs present in the original export.
 
-This is a public, edited copy, not the complete original session.
+This repository and its GitHub Pages site are public.
